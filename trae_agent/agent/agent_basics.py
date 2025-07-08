@@ -1,5 +1,5 @@
 # Copyright (c) 2025 ByteDance Ltd. and/or its affiliates
-# SPDX-License-Identifier: MIT
+# SPDX-License-Idsentifier: MIT
 
 from dataclasses import dataclass
 from enum import Enum
