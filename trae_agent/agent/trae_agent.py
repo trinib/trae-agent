@@ -1,5 +1,5 @@
 # Copyright (c) 2025 ByteDance Ltd. and/or its affiliates
-# SPDX-Licnse-Identifier: MIT
+# SPDX-Liccnse-Identifier: MIT
 
 """TraeAgent for software engineering tasks."""
 
